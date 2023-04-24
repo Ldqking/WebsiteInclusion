@@ -1,0 +1,50 @@
+{
+  "hash": "8e6da2bb",
+  "browserHash": "c5c3319f",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "e76c3b42",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "42bb8cc4",
+      "needsInterop": false
+    },
+    "@element-plus/icons-vue": {
+      "src": "../../node_modules/@element-plus/icons-vue/dist/index.js",
+      "file": "@element-plus_icons-vue.js",
+      "fileHash": "6a6e9c6b",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "0964c172",
+      "needsInterop": false
+    },
+    "pinia-plugin-persist": {
+      "src": "../../node_modules/pinia-plugin-persist/dist/pinia-persist.es.js",
+      "file": "pinia-plugin-persist.js",
+      "fileHash": "7698f3ab",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DLW4YSCO": {
+      "file": "chunk-DLW4YSCO.js"
+    },
+    "chunk-RNWUNH7L": {
+      "file": "chunk-RNWUNH7L.js"
+    },
+    "chunk-A4I7EZQC": {
+      "file": "chunk-A4I7EZQC.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
